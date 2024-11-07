@@ -1,5 +1,5 @@
-import { Blackjack } from './blackjack'
-import { Card } from './classShuffle'
+import { Blackjack } from './blackjack';
+import { Card } from './deck'
 
 describe('test shuffle', () => {
   it('play a game of blackjack', () => {

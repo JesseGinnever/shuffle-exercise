@@ -1,4 +1,4 @@
-import { Deck } from './classShuffle'
+import { Deck } from './deck'
 
 describe('test shuffle', () => {
   it('creates a deck of cards and shuffles it', () => {
