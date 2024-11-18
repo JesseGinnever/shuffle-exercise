@@ -2,7 +2,7 @@
 
 ## Objective:
 
-Your task is to create a deck of 52 playing cards and implement a method to shuffle the deck using a popular algorithm.
+Your task is to create a deck of 52 playing cards and implement a method to shuffle the deck.
 
 ## Requirements:
 
